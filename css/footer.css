@@ -1,0 +1,28 @@
+/**--------------------------------------------
+ *               STYLE FOOTER
+ *---------------------------------------------**/
+
+footer {
+	background-color: #4066ec;
+	display: flex;
+	/* align-items:center; */
+	flex-direction: column;
+}
+footer ul {
+	align-items: center;
+	display: flex;
+	flex-direction: column;
+}
+footer li {
+	padding: 14px 0;
+}
+footer h2 {
+	padding: 16px;
+}
+footer h3 {
+	text-align: center;
+}
+footer p{
+    padding: 16px;
+    text-align: left;
+}

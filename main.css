@@ -1,0 +1,16 @@
+/**----------------------
+ *    IMPORT CSS
+ *------------------------**/
+
+/* RESET */
+@import url(./css/normalize.css);
+@import url(./css/reset.css);
+
+/* VARIABLES, COLORES Y TIPOGRAFÍA */
+@import url(./css/colores.css);
+@import url(./css/tipografias.css);
+
+/* ESTRUCTURAS */
+@import url(./css/header.css);
+@import url(./css/footer.css);
+@import url(./css/layout.css);

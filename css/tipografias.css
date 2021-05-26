@@ -1,0 +1,12 @@
+/**----------------------
+ *    TIPOGRAFÍA
+ *------------------------**/
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+ :root{
+     --font-global:18px;
+     --font-family-parrafo:"Roboto";
+     --font-weight-400:400;
+     --font-weight-700:700;
+ }
