@@ -21,8 +21,10 @@ footer h2 {
 }
 footer h3 {
 	text-align: center;
+    padding-bottom: 46px;
+    font-weight: var(--font-weight-400);
 }
 footer p{
+	text-align: center;
     padding: 16px;
-    text-align: left;
 }
