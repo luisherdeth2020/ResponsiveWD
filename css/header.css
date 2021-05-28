@@ -26,6 +26,9 @@ main {
 		border-bottom-right-radius: 0px;
 	}
 	h1 {
-		display: none;
+		position: absolute;
+		padding: 25px 24px;
+		top: 0;
+		left: 0;
 	}
 }
